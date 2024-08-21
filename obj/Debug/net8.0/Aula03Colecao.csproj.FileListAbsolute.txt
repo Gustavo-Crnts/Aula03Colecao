@@ -1,0 +1,28 @@
+c:\Users\gustavo.santos\VS Gustavo\Aula03Colecao\bin\Debug\net8.0\Aula03Colecao.exe
+c:\Users\gustavo.santos\VS Gustavo\Aula03Colecao\bin\Debug\net8.0\Aula03Colecao.deps.json
+c:\Users\gustavo.santos\VS Gustavo\Aula03Colecao\bin\Debug\net8.0\Aula03Colecao.runtimeconfig.json
+c:\Users\gustavo.santos\VS Gustavo\Aula03Colecao\bin\Debug\net8.0\Aula03Colecao.dll
+c:\Users\gustavo.santos\VS Gustavo\Aula03Colecao\bin\Debug\net8.0\Aula03Colecao.pdb
+c:\Users\gustavo.santos\VS Gustavo\Aula03Colecao\obj\Debug\net8.0\Aula03Colecao.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\gustavo.santos\VS Gustavo\Aula03Colecao\obj\Debug\net8.0\Aula03Colecao.AssemblyInfoInputs.cache
+c:\Users\gustavo.santos\VS Gustavo\Aula03Colecao\obj\Debug\net8.0\Aula03Colecao.AssemblyInfo.cs
+c:\Users\gustavo.santos\VS Gustavo\Aula03Colecao\obj\Debug\net8.0\Aula03Colecao.csproj.CoreCompileInputs.cache
+c:\Users\gustavo.santos\VS Gustavo\Aula03Colecao\obj\Debug\net8.0\Aula03Colecao.dll
+c:\Users\gustavo.santos\VS Gustavo\Aula03Colecao\obj\Debug\net8.0\refint\Aula03Colecao.dll
+c:\Users\gustavo.santos\VS Gustavo\Aula03Colecao\obj\Debug\net8.0\Aula03Colecao.pdb
+c:\Users\gustavo.santos\VS Gustavo\Aula03Colecao\obj\Debug\net8.0\Aula03Colecao.genruntimeconfig.cache
+c:\Users\gustavo.santos\VS Gustavo\Aula03Colecao\obj\Debug\net8.0\ref\Aula03Colecao.dll
+D:\Gustavo e Isa - Projeto GUISA 2DS\Git-Gustavo\DS\Aula03Colecao\bin\Debug\net8.0\Aula03Colecao.exe
+D:\Gustavo e Isa - Projeto GUISA 2DS\Git-Gustavo\DS\Aula03Colecao\bin\Debug\net8.0\Aula03Colecao.deps.json
+D:\Gustavo e Isa - Projeto GUISA 2DS\Git-Gustavo\DS\Aula03Colecao\bin\Debug\net8.0\Aula03Colecao.runtimeconfig.json
+D:\Gustavo e Isa - Projeto GUISA 2DS\Git-Gustavo\DS\Aula03Colecao\bin\Debug\net8.0\Aula03Colecao.dll
+D:\Gustavo e Isa - Projeto GUISA 2DS\Git-Gustavo\DS\Aula03Colecao\bin\Debug\net8.0\Aula03Colecao.pdb
+D:\Gustavo e Isa - Projeto GUISA 2DS\Git-Gustavo\DS\Aula03Colecao\obj\Debug\net8.0\Aula03Colecao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gustavo e Isa - Projeto GUISA 2DS\Git-Gustavo\DS\Aula03Colecao\obj\Debug\net8.0\Aula03Colecao.AssemblyInfoInputs.cache
+D:\Gustavo e Isa - Projeto GUISA 2DS\Git-Gustavo\DS\Aula03Colecao\obj\Debug\net8.0\Aula03Colecao.AssemblyInfo.cs
+D:\Gustavo e Isa - Projeto GUISA 2DS\Git-Gustavo\DS\Aula03Colecao\obj\Debug\net8.0\Aula03Colecao.csproj.CoreCompileInputs.cache
+D:\Gustavo e Isa - Projeto GUISA 2DS\Git-Gustavo\DS\Aula03Colecao\obj\Debug\net8.0\Aula03Colecao.dll
+D:\Gustavo e Isa - Projeto GUISA 2DS\Git-Gustavo\DS\Aula03Colecao\obj\Debug\net8.0\refint\Aula03Colecao.dll
+D:\Gustavo e Isa - Projeto GUISA 2DS\Git-Gustavo\DS\Aula03Colecao\obj\Debug\net8.0\Aula03Colecao.pdb
+D:\Gustavo e Isa - Projeto GUISA 2DS\Git-Gustavo\DS\Aula03Colecao\obj\Debug\net8.0\Aula03Colecao.genruntimeconfig.cache
+D:\Gustavo e Isa - Projeto GUISA 2DS\Git-Gustavo\DS\Aula03Colecao\obj\Debug\net8.0\ref\Aula03Colecao.dll
